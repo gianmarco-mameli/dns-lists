@@ -5,17 +5,17 @@
 ! Expires: 1 days (update frequency)
 ! Homepage:
 !
-@@||pennyblack.com^
-@@||levi.com^
-@@||paypal.com^
-@@||pennyblack.com^
-@@||ikea.it^
-@@||ikea.com^
-@@||benetton.com^
+@@||pennyblack.com^$document
+@@||levi.com^$document
+@@||paypal.com^$document
+@@||pennyblack.com^$document
+@@||ikea.it^$document
+@@||ikea.com^$document
+@@||benetton.com^$document
 
 ! Wallapop
-@@||wallapop.com^
-@@||it.wallapop.com^
-@@||amplitude.com^
-@@||mparticle.com^
-@@||appboycdn.com^
+@@||wallapop.com^$document
+@@||it.wallapop.com^$document
+@@||amplitude.com^$document
+@@||mparticle.com^$document
+@@||appboycdn.com^$document
