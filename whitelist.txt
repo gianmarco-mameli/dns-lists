@@ -14,6 +14,7 @@
 ||benetton.com^
 
 ! Wallapop
+||wallapop.com^
 ||amplitude.com^
 ||mparticle.com^
 ||appboycdn.com^
