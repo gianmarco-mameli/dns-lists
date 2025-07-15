@@ -1,0 +1,12 @@
+||pennyblack.com^
+||levi.com^
+||paypal.com^
+||pennyblack.com^
+||ikea.it^
+||ikea.com^
+||benetton.com^
+
+! Wallapop
+||amplitude.com^
+||mparticle.com^
+||appboycdn.com^
