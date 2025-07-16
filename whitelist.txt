@@ -1,3 +1,10 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
+! Expires: 1 days (update frequency)
+! Syntax: AdBlock
+!
 @@||pennyblack.com^$document
 @@||levi.com^$document
 @@||paypal.com^$document
@@ -5,6 +12,7 @@
 @@||ikea.it^$document
 @@||ikea.com^$document
 @@||benetton.com^$document
+! Wallapop
 @@||wallapop.com^$document
 @@||it.wallapop.com^$document
 @@||amplitude.com^$document
