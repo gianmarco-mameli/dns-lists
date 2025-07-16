@@ -3,7 +3,7 @@
 ! Title:
 ! Last modified:
 ! Expires: 1 days (update frequency)
-! Homepage:
+! Syntax: AdBlock
 !
 @@||pennyblack.com^$document
 @@||levi.com^$document
