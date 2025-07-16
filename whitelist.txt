@@ -12,7 +12,6 @@
 @@||ikea.it^$document
 @@||ikea.com^$document
 @@||benetton.com^$document
-
 ! Wallapop
 @@||wallapop.com^$document
 @@||it.wallapop.com^$document
