@@ -6,15 +6,15 @@
 ! Syntax: AdBlock
 !
 @@||pennyblack.com^
-! @@||levi.com^
-! @@||paypal.com^
-! @@||pennyblack.com^
-! @@||ikea.it^
-! @@||ikea.com^
-! @@||benetton.com^
-! ! Wallapop
-! @@||wallapop.com^
-! @@||it.wallapop.com^
-! @@||amplitude.com^
-! @@||mparticle.com^
-! @@||appboycdn.com^
+@@||levi.com^
+@@||paypal.com^
+@@||pennyblack.com^
+@@||ikea.it^
+@@||ikea.com^
+@@||benetton.com^
+! Wallapop
+@@||wallapop.com^
+@@||it.wallapop.com^
+@@||amplitude.com^
+@@||mparticle.com^
+@@||appboycdn.com^
