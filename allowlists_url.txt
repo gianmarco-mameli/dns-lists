@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/gianmarco-mameli/dns-whitelist/main/whitelist.txt
