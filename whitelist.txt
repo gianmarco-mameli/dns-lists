@@ -12,6 +12,7 @@
 @@||ikea.it^
 @@||ikea.com^
 @@||benetton.com^
+@@||unisalute.it^
 ! Wallapop
 @@||wallapop.com^
 @@||it.wallapop.com^
