@@ -5,6 +5,8 @@
 ! Expires: 1 days (update frequency)
 ! Syntax: AdBlock
 !
+@@||rpisrv.it^
+!
 @@||pennyblack.com^
 @@||levi.com^
 @@||paypal.com^
