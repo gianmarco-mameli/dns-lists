@@ -16,6 +16,8 @@
 @@||benetton.com^
 @@||unisalute.it^
 @@||auxologico.it^
+@@||learn.kodekloud.com^
+!
 ! Wallapop
 @@||wallapop.com^
 @@||it.wallapop.com^
