@@ -17,6 +17,10 @@
 @@||unisalute.it^
 @@||auxologico.it^
 @@||learn.kodekloud.com^
+@@||bbva.it^
+@@||widiba.it^
+@@||fineco.it^
+@@||udemy.com^
 !
 ! Wallapop
 @@||wallapop.com^
