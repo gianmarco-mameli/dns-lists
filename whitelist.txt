@@ -27,5 +27,6 @@
 @@||wallapop.com^
 @@||it.wallapop.com^
 @@||amplitude.com^
-@@||mparticle.com^
+@@||mparticle^
 @@||appboycdn.com^
+@@||sdk.iad-01.braze.com^
