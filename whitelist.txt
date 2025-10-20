@@ -21,6 +21,7 @@
 @@||widiba.it^
 @@||fineco.it^
 @@||udemy.com^
+@@||vinted.it^
 !
 ! Wallapop
 @@||wallapop.com^
