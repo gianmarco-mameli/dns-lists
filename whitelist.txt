@@ -22,9 +22,9 @@
 @@||fineco.it^
 @@||udemy.com^
 @@||vinted.it^
-!
-! Wallapop
 @@||wallapop.com^
+@@||remotedesktop.google.com^
+
 ! @@||it.wallapop.com^
 ! @@||amplitude.com^
 ! @@||mparticle.com^
